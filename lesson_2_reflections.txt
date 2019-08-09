@@ -17,3 +17,7 @@ An example is a situation where I would like to experiment with a different appr
 How do the diagrams help you visualize the branch structure?
 
 By creating connections between commits and branches
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is a unified commit history of both branches. To show the hierarchy of the commits.
