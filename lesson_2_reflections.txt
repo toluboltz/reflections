@@ -13,3 +13,7 @@ In cases where a logical change involve editing more than one file in the workin
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 An example is a situation where I would like to experiment with a different approach to coding my project though the current one works perfectly. Branching out from the master branch will ensure that the current working project is safe from my tinkering errors
+
+How do the diagrams help you visualize the branch structure?
+
+By creating connections between commits and branches
