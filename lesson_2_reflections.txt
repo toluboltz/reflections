@@ -9,3 +9,7 @@ The staging area serves as an intermediate between the working directory and the
 How can you use the staging area to make sure you have one commit per logical change?
 
 In cases where a logical change involve editing more than one file in the working directory, the staging area can be used as an intermediary to gather all the changes before committing them.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+An example is a situation where I would like to experiment with a different approach to coding my project though the current one works perfectly. Branching out from the master branch will ensure that the current working project is safe from my tinkering errors
