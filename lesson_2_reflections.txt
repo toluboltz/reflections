@@ -21,5 +21,3 @@ By creating connections between commits and branches
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The result is a unified commit history of both branches. To show the hierarchy of the commits.
-
-Another rubbish line

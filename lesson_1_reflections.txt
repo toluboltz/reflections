@@ -29,5 +29,3 @@ Simply by knowing that you can go back to previous commits to see where the bugs
 Now that you have your workspace set up, what do you want to try using Git for?
 
 I want to use it to build all my projects henceforth
-
-A rubbish line
