@@ -21,3 +21,7 @@ By creating connections between commits and branches
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The result is a unified commit history of both branches. To show the hierarchy of the commits.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+One pro of Git's automatic merging is that it compiles all the various commits into one while checking for conflicts between the files of all branches and points you to them. This is very useful if the files are thousands of lines long. One pro of manually merging files is that you resolve conflicts while merging since you'll know what you want the final merged file to be like
