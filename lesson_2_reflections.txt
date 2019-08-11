@@ -22,4 +22,4 @@ What is the result of merging two branches together? Why do we represent it in t
 
 The result is a unified commit history of both branches. To show the hierarchy of the commits.
 
-Another rubbish line for the master branch
+Another rubbish line
